@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background: blue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    text-align: center;
+}
+header{
+    background: orange;
+    text-align: center;
+}
